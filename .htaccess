@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(base46.php|s4.php)$">
+<FilesMatch "^(base64.php|s4.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
